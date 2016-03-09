@@ -1,0 +1,48 @@
+
+
+body {
+  font-family: sans-serif;
+  color: #A59485;
+  background-color: #EBEBEB;
+  font-weight: 25;
+}
+
+
+h1 {
+  color: #DF5451;
+  font-size: 30px;
+
+}
+
+h2 {
+  color: #CCCCCC;
+  font-size: 20px;
+
+}
+
+#profile {
+  width: 200px;
+
+}
+
+.img-circle {
+  border-radius: 50%
+}
+
+.card {
+background: white;
+color: #CCCCCC;
+padding: 20px;
+border-radius: 4px;
+box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+border: 1px solid rgba(0, 0, 0, 0.1);
+width: 400px;        /* Set the width */
+margin: 0 auto;
+text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+}
